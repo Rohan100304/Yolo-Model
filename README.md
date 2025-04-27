@@ -2,8 +2,6 @@
 # Underwater Debris Detection using YOLO
 
 
-![Dataset Sample](dataset_images.png)
-*Sample images from the underwater debris dataset.*
 
 ## Overview
 
